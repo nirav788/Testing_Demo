@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.cjw.evolution.ui.common.widget.SquareImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/profile_item_image"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:scaleType="centerCrop" />
