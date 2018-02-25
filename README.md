@@ -1,6 +1,6 @@
 # Evolution
 
-Dribbble Android client, personal practice project, named Evolution, I hope I do not stop progress. The project is not yet completed, temporarily not recommended for learning or reference.
+Dribbble Android client, personal practice project, named Testing, I hope I do not stop progress. The project is not yet completed, temporarily not recommended for learning or reference.
   
 The project adopted the MVP architecture (using Gooole's [TODO-MVP] (https://github.com/googlesamples/android-architecture/tree/todo-mvp/ "TODO-MVP") model), using RxJava + Retrofix as a web request Module, greenDao as a database storage module. MaterialDesign, as well as some Android5.0 above animation.
 
