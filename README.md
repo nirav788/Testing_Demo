@@ -12,7 +12,7 @@ The project adopted the MVP architecture (using Gooole's [TODO-MVP] (https://git
 2. RxAndroid: [https://github.com/ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)  
 3. Glide: [https://github.com/bumptech/glide](https://github.com/bumptech/glide)  
 4. ButterKnife: [https://github.com/JakeWharton/butterknife](https://github.com/JakeWharton/butterknife)  
-5. Retrofix: [https://github.com/square/retrofit](https://github.com/square/retrofit)  
+5. Retrofit: [https://github.com/square/retrofit](https://github.com/square/retrofit)  
 6. greenDao: [https://github.com/greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)  
 7. BaseRecyclerViewAdapterHelper: [https://github.com/CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)  
 
